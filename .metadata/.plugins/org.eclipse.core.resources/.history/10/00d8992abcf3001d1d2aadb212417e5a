@@ -1,0 +1,21 @@
+package com.category.exception;
+
+
+public class SequenceException extends Exception{
+
+	public SequenceException() {
+		super();
+	}
+
+	public SequenceException(String message) {
+		super(message);
+	}
+
+	public SequenceException(Throwable cause) {
+		super(cause);
+	}
+
+	
+
+	
+}

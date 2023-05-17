@@ -1,0 +1,15 @@
+
+
+java:S11921"IDefine a constant instead of duplicating this literal "********" 7 times.(‡ƒ‡ø8–²²ƒì0HĞRCRITICALZ
+CODE_SMELL
+€
+java:S11921"JDefine a constant instead of duplicating this literal "*********" 7 times.(‡ƒ‡ø8–²²ƒì0HØRCRITICALZ
+CODE_SMELL
+z
+java:S4684ã"@Replace this persistent entity with a simple POJO or DTO object.(×ÍëØ8¸úÍÿë0HàRCRITICALZVULNERABILITY
+z
+java:S4684Ã"@Replace this persistent entity with a simple POJO or DTO object.(·“â¢8¸úÍÿë0HáRCRITICALZVULNERABILITY
+y
+java:S4684X"@Replace this persistent entity with a simple POJO or DTO object.(ÛÒ—–8¸úÍÿë0HâRCRITICALZVULNERABILITY
+
+java:S4684£"@Replace this persistent entity with a simple POJO or DTO object.(”ÓÊøÿÿÿÿ8¸úÍÿë0HãRCRITICALZVULNERABILITY

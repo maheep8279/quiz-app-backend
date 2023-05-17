@@ -1,0 +1,9 @@
+package com.quizinfo.model;
+
+
+public class QuizInfo {
+	private long id;
+	private String quizName;
+	private String noOfAttempts;
+	private String duration;
+}

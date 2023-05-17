@@ -1,0 +1,59 @@
+package com.quizinfo.model;
+
+public class QuizInfo {
+	private long id;
+	private String quizName;
+	private String noOfAttempts;
+	private String duration;
+
+	public QuizInfo() {
+		super();
+	}
+
+	public QuizInfo(long id, String quizName, String noOfAttempts, String duration) {
+		super();
+		this.id = id;
+		this.quizName = quizName;
+		this.noOfAttempts = noOfAttempts;
+		this.duration = duration;
+	}
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getQuizName() {
+		return quizName;
+	}
+
+	public void setQuizName(String quizName) {
+		this.quizName = quizName;
+	}
+
+	public String getNoOfAttempts() {
+		return noOfAttempts;
+	}
+
+	public void setNoOfAttempts(String noOfAttempts) {
+		this.noOfAttempts = noOfAttempts;
+	}
+
+	public String getDuration() {
+		return duration;
+	}
+
+	public void setDuration(String duration) {
+		this.duration = duration;
+	}
+
+	@Override
+	public String toString() {
+		return "QuizInfo [id=" + id + ", quizName=" + quizName + ", noOfAttempts=" + noOfAttempts + ", duration="
+				+ duration + "]";
+	}
+
+}

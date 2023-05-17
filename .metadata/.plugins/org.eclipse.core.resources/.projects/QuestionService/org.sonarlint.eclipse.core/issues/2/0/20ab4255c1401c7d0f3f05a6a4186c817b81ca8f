@@ -1,0 +1,15 @@
+
+~
+java:S1192p"HDefine a constant instead of duplicating this literal "success" 6 times.(ùØ8­“™ÿë0HÄRCRITICALZ
+CODE_SMELL
+
+java:S3655a"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Â”ŠĞøÿÿÿÿ8ø÷¢ÿë0HËRMAJORZBUG
+…
+java:S6204y"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ƒÕÁŠ8ü©»ÿë0HÌRMAJORZ
+CODE_SMELL
+}
+java:S3655‹"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Œä¢‰8Æª§ÿë0HÍRMAJORZBUG
+}
+java:S3655É"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Œ•õŞ8ø÷¢ÿë0HÎRMAJORZBUG
+|
+java:S3655©"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ª°‡v8·ç©ÿë0HÏRMAJORZBUG
